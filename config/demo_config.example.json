@@ -1,0 +1,7 @@
+{
+  "external_catalog": "replace_with_external_catalog",
+  "external_schema": "replace_with_demo_source_schema",
+  "standard_catalog": "replace_with_standard_catalog",
+  "silver_schema": "supply_chain_silver",
+  "gold_schema": "supply_chain_gold"
+}
