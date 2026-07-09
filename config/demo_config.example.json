@@ -2,6 +2,6 @@
   "external_catalog": "aidp_sc_demo_source",
   "external_schema": "aidp_sc_demo",
   "standard_catalog": "aidp_sc_demo_standard",
-  "silver_schema": "supply_chain_silver",
-  "gold_schema": "supply_chain_gold"
+  "silver_schema": "demo_supply_chain_silver",
+  "gold_schema": "demo_supply_chain_gold"
 }

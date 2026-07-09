@@ -33,8 +33,8 @@ Default notebook configuration:
 SOURCE_CATALOG=aidp_sc_demo_source
 SOURCE_SCHEMA=aidp_sc_demo
 TARGET_CATALOG=aidp_sc_demo_standard
-SILVER_SCHEMA=supply_chain_silver
-GOLD_SCHEMA=supply_chain_gold
+SILVER_SCHEMA=demo_supply_chain_silver
+GOLD_SCHEMA=demo_supply_chain_gold
 ```
 
 No Oracle wallet belongs in this repository. The notebooks read through the AIDP external catalog and write to the AIDP standard catalog.
