@@ -11,8 +11,8 @@ It is intentionally separate from the ingestion repository:
 
 ```text
 SUPPLY_PO_LINE_COMPARISON
-SUPPLY_PO_PRICE_MODEL_FEATURES
-SUPPLY_PO_PRICE_ANOMALY_OUTPUT
+SUPPLY_PO_PRICE_REVIEW_FEATURES
+SUPPLY_PO_PRICE_REVIEW_OUTPUT
 ```
 
 ## Planned notebooks
@@ -21,7 +21,7 @@ SUPPLY_PO_PRICE_ANOMALY_OUTPUT
 notebooks/
 ├── 01_external_catalog_preflight.ipynb
 ├── 02_build_silver_po_line_comparison.ipynb
-├── 03_build_gold_anomaly_output.ipynb
+├── 03_build_gold_price_review_output.ipynb
 └── 04_validate_standard_catalog_outputs.ipynb
 ```
 
