@@ -10,9 +10,9 @@ It is intentionally separate from the ingestion repository:
 ## Outputs
 
 ```text
-SUPPLY_PO_LINE_COMPARISON
-SUPPLY_PO_PRICE_REVIEW_FEATURES
-SUPPLY_PO_PRICE_REVIEW_OUTPUT
+supply_po_line_comparison
+supply_po_price_review_features
+supply_po_price_review_output
 ```
 
 ## Notebooks
