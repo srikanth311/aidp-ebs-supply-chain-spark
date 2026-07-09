@@ -1,5 +1,12 @@
-# Notebook placeholder
+# Notebooks
 
-The Spark notebooks will be added after the ingestion schema and CSV fixtures are finalized and validated.
+Run these notebooks in order from AIDP Workbench:
 
-They will accept catalog and schema names as parameters and will not contain customer-specific identifiers or credentials.
+```text
+01_external_and_standard_catalog_preflight.ipynb
+02_build_silver_supply_chain_tables.ipynb
+03_build_gold_price_review_output.ipynb
+04_validate_standard_catalog_outputs.ipynb
+```
+
+Each notebook has a configuration cell at the top with catalog and schema names. The notebooks do not contain credentials or wallet files.
